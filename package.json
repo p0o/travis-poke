@@ -1,0 +1,22 @@
+{
+  "name": "travis-poke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p0o/travis-poke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p0o/travis-poke/issues"
+  },
+  "homepage": "https://github.com/p0o/travis-poke#readme",
+  "devDependencies": {
+    "jshint": "^2.9.1"
+  }
+}
